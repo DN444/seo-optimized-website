@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+<title id="title">Students learning together</title><desc id="desc">Three students collaborate around books and a globe.</desc>
+<rect width="800" height="560" rx="32" fill="#fef5e5"/><path d="M84 434h632" stroke="#244c3b" stroke-width="20" stroke-linecap="round"/><circle cx="402" cy="210" r="94" fill="#6cb5b0"/><path d="M308 210h188M402 116v188M334 144c42 35 42 147 0 132m136-132c-42 35-42 147 0 132" fill="none" stroke="#fffaf0" stroke-width="9"/>
+<g fill="#f4b183"><circle cx="210" cy="280" r="40"/><circle cx="590" cy="280" r="40"/></g><g fill="#c95d3d"><path d="M157 265q50-68 105 0v48H157z"/><path d="M537 265q50-68 105 0v48H537z"/></g><g fill="#244c3b"><path d="M151 331h119l38 103H112z"/><path d="M530 331h119l39 103H492z"/></g><path d="M271 396h259l-25 41H295z" fill="#f6c85f"/><path d="M330 396l73-22 73 22-73 22z" fill="#fffaf0"/>
+</svg>

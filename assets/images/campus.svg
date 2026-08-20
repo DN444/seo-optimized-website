@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">Illustration of XYZ Public School campus</title><desc id="desc">A warm school campus with trees and children.</desc>
+<rect width="900" height="650" fill="#eaf5ef"/><circle cx="760" cy="100" r="53" fill="#f6c85f"/><path d="M0 462 Q200 385 410 465 T900 440V650H0Z" fill="#84bf9a"/>
+<path d="M175 420V197L432 116l258 81v223z" fill="#fffaf0"/><path d="M146 197l287-105 287 105-287 98z" fill="#244c3b"/><path d="M397 420V279h74v141" fill="#f6c85f"/>
+<g fill="#244c3b"><rect x="234" y="264" width="56" height="53" rx="5"/><rect x="572" y="264" width="56" height="53" rx="5"/></g><g fill="#c95d3d"><circle cx="113" cy="408" r="28"/><circle cx="761" cy="404" r="28"/></g>
+<g stroke="#397258" stroke-width="20" stroke-linecap="round"><path d="M110 414V298"/><path d="M758 410V282"/></g><g fill="#397258"><circle cx="83" cy="297" r="35"/><circle cx="138" cy="290" r="42"/><circle cx="731" cy="283" r="42"/><circle cx="786" cy="277" r="37"/></g>
+<g fill="#f4b183"><circle cx="369" cy="476" r="19"/><circle cx="516" cy="482" r="19"/></g><g stroke="#244c3b" stroke-width="17" stroke-linecap="round"><path d="M369 498v54m-22-27h44"/><path d="M516 504v54m-22-27h44"/></g>
+</svg>
