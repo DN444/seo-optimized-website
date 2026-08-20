@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.xyzpublicschool.netlify.app/sitemap.xml
+Sitemap: https://www.xyzpublicschooltest.netlify.app/sitemap.xml
